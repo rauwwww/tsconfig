@@ -1,7 +1,7 @@
 {
-  "name": "@rauwww/tsconf",
+  "name": "@rauwww/tslint",
   "version": "1.0.0",
-  "description": "custom simple tsconfig",
+  "description": "custom simple tslint",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
@@ -10,14 +10,14 @@
   "license": "MIT",
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/rauwwww/tsconfig.git"
+    "url": "git+https://github.com/rauwwww/tslint.git"
   },
   "keywords": [
-    "tsconfig",
+    "tslint",
     "custom"
   ],
   "bugs": {
-    "url": "https://github.com/rauwwww/tsconfig/issues"
+    "url": "https://github.com/rauwwww/tslint"
   },
-  "homepage": "https://github.com/rauwwww/tsconfig#readme"
+  "homepage": "https://github.com/rauwwww/tslint#readme"
 }
