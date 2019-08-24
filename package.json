@@ -1,0 +1,23 @@
+{
+  "name": "@rauwww/tsconf",
+  "version": "1.0.0",
+  "description": "custom simple tsconfig",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "rauwww",
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/rauwwww/tsconfig.git"
+  },
+  "keywords": [
+    "tsconfig",
+    "custom"
+  ],
+  "bugs": {
+    "url": "https://github.com/rauwwww/tsconfig/issues"
+  },
+  "homepage": "https://github.com/rauwwww/tsconfig#readme"
+}
