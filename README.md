@@ -1,2 +1,3 @@
-# tsconfig
-npm tsconfig custom package
+# tslint
+
+npm tslint custom rules
