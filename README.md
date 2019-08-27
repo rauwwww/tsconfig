@@ -1,7 +1,9 @@
 # tslint
 
-npm tslint custom rules
+npm tslint custom rules package
 
 # setup
 
-recommended setup extending tslint:recommended + @rauwww/tslint
+yarn / npm i  @rauwww/tslint
+
+recommended setup extending tslint:recommended + @rauwww/tslint/tslint-config
